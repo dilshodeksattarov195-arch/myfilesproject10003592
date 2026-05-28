@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchserify",
+        "uuid": 25370296,
+        "checksum": "lm2ww"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
